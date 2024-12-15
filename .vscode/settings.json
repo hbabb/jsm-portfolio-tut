@@ -18,5 +18,6 @@
   "json.schemaDownload.enable": false,
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  },
+  "cSpell.words": ["cbff", "drei", "tabler"]
 }
